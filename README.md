@@ -19,6 +19,13 @@ npm install
 npm run dev
 ```
 
+Init Database
+```bash
+php artisan migrate
+```
+
+Now u good to go!
+
 
 
 ## FAQ
