@@ -25,7 +25,7 @@ npm run dev
 
 #### Y u did it?
 
-i dont. For fun and internet points I guess??
+idk. For fun and internet points I guess??
 
 #### Y?
 
