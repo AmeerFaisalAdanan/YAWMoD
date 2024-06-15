@@ -43,3 +43,6 @@ RUN npm install && npm run build
 # Expose port 9000 and start php-fpm server
 EXPOSE 9000
 CMD ["php-fpm"]
+
+#run migration and seeder
+RUN php artisan migrate --seed
